@@ -12,4 +12,4 @@ System.out.println(n+ "is EVEN");
 else
 System.out.println(n+ "is ODD);
 }
-}
+ }
