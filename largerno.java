@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class large
+public class largerno
 {
 public static void main(String args[])
 {
